@@ -1,0 +1,1 @@
+insert into mumbai values("Latur",'63KM',100,'Rj1112');

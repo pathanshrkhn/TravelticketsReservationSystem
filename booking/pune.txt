@@ -1,0 +1,8 @@
+create table pune(name varchar(20) primary key,
+distance varchar(20),
+rent varchar(20),
+bus varchar(20)
+
+
+
+ );

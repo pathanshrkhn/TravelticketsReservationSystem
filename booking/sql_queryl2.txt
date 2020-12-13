@@ -1,0 +1,1 @@
+insert into latur values("Mumbai",'63KM',100,'Rj1112');

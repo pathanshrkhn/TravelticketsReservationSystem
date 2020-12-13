@@ -1,0 +1,1 @@
+insert into mumbai values("Pune",'68KM',200,'Rj1113');

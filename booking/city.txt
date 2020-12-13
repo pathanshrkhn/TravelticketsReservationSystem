@@ -1,0 +1,1 @@
+Create table city(name varchar(20)primary key);

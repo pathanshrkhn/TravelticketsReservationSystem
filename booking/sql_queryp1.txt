@@ -1,0 +1,1 @@
+insert into pune values("Latur",'55KM',120,'Rj1111');
