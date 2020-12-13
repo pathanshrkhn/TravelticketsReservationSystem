@@ -1,0 +1,19 @@
+create table z(
+ticketno varchar(20),
+name varchar(20),
+email varchar(20),
+phoneno varchar(20),
+comfort varchar(20),
+
+seats varchar(20),
+
+totalseats varchar(20),
+totalrent varchar(20),
+time varchar(20),
+date varchar(20),
+bus varchar(20),
+frm varchar(20),
+t_o varchar(20),
+bdate varchar(20)
+
+);
