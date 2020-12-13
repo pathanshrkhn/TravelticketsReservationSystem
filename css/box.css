@@ -1,0 +1,19 @@
+.floating-box {
+    display: inline-block;
+    width: 500px;
+    height: 310px;
+    margin: 10px;
+    border: 2px solid ;  
+}
+
+.after-box {
+    border: 3px solid red; 
+}
+
+hr{
+width:495px;
+}
+b{
+left:300;
+right:300;
+}

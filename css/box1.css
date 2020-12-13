@@ -1,0 +1,17 @@
+.floating-box {
+    display: inline-block;
+  width: 500px;
+    height: 310px;
+    margin: 10px;
+	background-color:#FDFDFD;
+    border: 1px solid ;
+	border-color:#CCCCCC;  
+}
+
+.after-box {
+    border: 3px solid red; 
+}
+
+hr{
+width:200px;
+}

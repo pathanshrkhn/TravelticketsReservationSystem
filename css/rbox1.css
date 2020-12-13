@@ -1,0 +1,59 @@
+
+.rcorners1 {
+    border-radius: 25px;
+
+    padding: 20px; 
+    width:500px;
+
+	border: 1px solid #000000 ; 
+
+}
+
+.rcorners1 .hr {
+width:200px;
+
+
+}
+.rcorners2 {
+    border-radius: 25px;
+
+    padding: 20px; 
+    width:500px;
+	height:230px;
+	border: 1px solid #000000 ; 
+
+}
+
+.rcorners3 {
+    border-radius: 25px;
+    background: url(paper.gif);
+    background-position: left top;
+    background-repeat: repeat;
+    padding: 20px; 
+    width: 200px;
+    height: 150px; 
+}
+.rcorners4 {
+    border-radius: 15px 50px 30px 5px;
+    background: #73AD21;
+    padding: 20px; 
+    width: 200px;
+    height: 150px; 
+}
+
+.rcorners5 {
+    border-radius: 15px 50px 30px;
+     border: 1px solid ;
+    padding: 20px; 
+	background-color:#EEEEEE;
+   width:100%;
+}
+
+.rcorners6 {
+    border-radius: 15px 50px;
+    border: 1px solid ;
+
+	
+    padding: 20px; 
+   
+} 

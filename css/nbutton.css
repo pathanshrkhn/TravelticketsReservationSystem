@@ -1,0 +1,16 @@
+.but {
+  background-color:#FFCCFF
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+
+
+.but:hover {
+color:#FFFFFF;
+background-color:#454545;
+}
+
+
